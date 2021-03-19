@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-	<center><h1>Discard Old Builds/h1></center>
+	<center><h1>JaCoCO<h1></center>
 <h1 align="center">Welcome to Mithun Software Solutions. GitHub WebHook -- Testing...</h1>
 	<h1 align="center"> ***Welcome to Mithun Software Solutions***</h1>
 	<h2>We have a demo on  DevOps with AWS on Feb 2nd week 2021  at 7 PM IST for new batch.</h2>
